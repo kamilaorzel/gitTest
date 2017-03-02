@@ -27,3 +27,5 @@ elif 80 <= glosnosc < 100:
     print("Troszeczke za gloano!")
 else:
     print("Ojoj! Moje uszy! :(")
+
+print("Sprawdzam czy działa git")
