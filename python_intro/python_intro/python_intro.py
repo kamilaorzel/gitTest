@@ -28,4 +28,4 @@ elif 80 <= glosnosc < 100:
 else:
     print("Ojoj! Moje uszy! :(")
 
-print("Sprawdzam czy działa git")
+print("Sprawdzam czy działa git - zmiana1")
