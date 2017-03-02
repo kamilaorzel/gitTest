@@ -22,7 +22,7 @@ elif 20 <= glosnosc < 40:
 elif 40 <= glosnosc < 60:
     print("Idealnie, moge uslyszec wszystkie detale")
 elif 60 <= glosnosc < 80:
-    print("Dobre na imprezy")
+    print("Dobre na głośne imprezy")
 elif 80 <= glosnosc < 100:
     print("Troszeczke za gloano!")
 else:
